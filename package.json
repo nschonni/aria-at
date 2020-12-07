@@ -10,7 +10,7 @@
     "update-reference": "node ./scripts/update-reference.js"
   },
   "dependencies": {
-    "csv-parser": "^2.3.2",
+    "csv-parser": "^3.0.0",
     "fs-extra": "^8.1.0",
     "htmlparser2": "^5.0.1",
     "inquirer": "^7.0.4",
